@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    padding-top: 15px;
+    
+
+}
+li{
+    list-style: none;
+    display: inline;
+}
+   
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    color: antiquewhite;
+    
+}
+
